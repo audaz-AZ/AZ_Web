@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPGothic&family=Lobster&family=Public+Sans:wght@100;300&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=BIZ+UDPGothic&family=Kaushan+Script&family=Lobster&family=Public+Sans:wght@100;300&family=Secular+One&display=swap');
+
+*{
+	font-family: 'BIZ UDPGothic', sans-serif;
+    user-select: none;
+    text-decoration: none;
+}
+
+.bg {
+    position: absolute;
+    background-color: rgba(0, 0, 0, .25);
+    box-shadow: 0vw 0vw .6vw rgba(0, 119, 255);
+    width: 35%;
+    top: 12%;
+    padding: 20%;
+    left: 13%;
+    border-radius: .6vw;
+    align-self: center;
+}
+
+body {
+    background-color: rgba(57, 57, 57, 0.8);
+    width: auto;
+    height: auto;
+}
+
+.main-github-icon {
+    position: absolute;
+    font-size: 4vw;
+    left: .6vw;
+    top: .4vw;
+    color: white;
+    transition: 1s;
+    width: 3vw;
+}
+
+.main-github-icon:hover {
+    transform: scale(1.2);
+}
+
+.discord-icon {
+    position: absolute;
+    text-align: center;
+    left: 15vw;
+    bottom: 6.6vw;
+    transition: 1s;
+}
+
+.discord-icon-img {
+    width: 5.5vw;
+    padding: 1vw;  
+    background-color: rgba(0,0,0,.25);
+    border-radius: .4vw;
+    box-shadow: 0vw 0vw .6vw rgba(0, 119, 255);
+}
+
+.discord-icon:hover {
+    transform: scale(1.13);
+    border-radius: .4vw;
+}
+
+.github-icon {
+    transition: 1s;
+    position: absolute;
+    right: 15vw;
+    bottom: 6.6vw;
+}
+
+.github-icon-img {
+    width: 5.5vw;
+    padding: 1vw;  
+    background-color: rgba(0,0,0,.25);
+    border-radius: .4vw;
+    box-shadow: 0vw 0vw .4vw rgba(0, 119, 255);
+}
+
+.github-icon:hover {
+    transform: scale(1.13);
+}
+
+h1 {
+    position: absolute;
+    font-size: 2vw;
+    color: white;
+    text-shadow: .1vw .1vw .1vw .1vw rgba(255, 255, 255, 1);
+    top: 2vw;
+    left: 15vw;
+}
+
+.redes-sociales-texto {
+    position: absolute;
+    font-size: 1vw;
+    color: rgb(255, 255, 255);
+    text-shadow: .1vw .1vw .1vw .1vw rgba(255, 255, 255, 1);
+    bottom: 50%;
+    left: 14vw;
+    padding: 3vw;
+}
+
+.line-main {
+    position: absolute;
+    width: 43vw;
+    left: 16vw;
+    box-shadow: 0vw 0vw .5vw rgba(0, 119, 255);
+}
+
+.insta-icon {
+    transition: 1s;
+    position: absolute;
+    left: 34vw;
+    bottom: 6.3vw;
+}
+
+.insta-icon-img {
+    width: 5.3vw;
+    padding: 1vw;  
+    background-color: rgba(0,0,0,.25);
+    border-radius: .4vw;
+    box-shadow: 0vw 0vw .6vw rgba(0, 119, 255);
+}
+
+.insta-icon:hover {
+    transform: scale(1.13);
+}
+
+.main-logo {
+    transform: rotate(-25deg);
+    color: gray;
+    position: absolute;
+    font-size: 5vw;
+    left: -2.7vw;
+    top: -8vw;
+    font-family: 'Kaushan Script';
+}
