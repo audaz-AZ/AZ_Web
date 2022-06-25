@@ -13,7 +13,7 @@ Buenas 👋 ¡ Bienvenido a AZ_Web !
 - 💙 Web simple y personal
 
 
-- 🌊 Ayuda de @LZ Wait(tonivsari)#3053
+- 🌌 Ayuda de `LZ Wait(tonivsari)#3053`
 
 
 -------------------------------------------------
